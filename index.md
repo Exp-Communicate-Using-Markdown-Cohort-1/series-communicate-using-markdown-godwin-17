@@ -10,3 +10,20 @@
 # Testing Images
 
 ![Image of GitHub's logo](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
+# Adding Code
+
+```
+// JavaScript | TypesScript
+
+const hello = 'Hello World!';
+
+console.log(hello);
+```
+
+
+```
+// Python
+
+print('Hello World!')
+```
